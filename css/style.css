@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color:rgba(255, 255, 255, 1);
+    font-weight: 400;
+    color: black;
+}
+nav {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.85;
+}
+
+.all_name span {
+    font-family: 'Raleway';
+    color: #2196F3;
+    line-height: 1.19;
+}
+span {
+    font-family: 'Raleway';
+    font-size: 26px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #2196F3;
+}
+.button {
+    font-size: 16px;
+    font-weight: 500;
+    background-color: rgba(245, 244, 250, 1);
+    line-height: 0.61;
+}
+
+.button:hover{
+    background-color: rgba(33, 150, 243, 1);
+    text-emphasis-color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 0.5;
+}
+
+p {
+    font-size: 16px;
+    line-height: 0.53;
+}
