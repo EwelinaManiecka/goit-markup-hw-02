@@ -17,6 +17,13 @@ nav {
     color: #2196F3;
     line-height: 1.19;
 }
+
+.all_name {
+    font-family: 'Raleway';
+    color: black;
+    line-height: 1.19;
+}
+
 span {
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
@@ -35,6 +42,20 @@ a:hover {
     color: #2196F3;
 
 }
+
+.button_index {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 0.61;
+    text-align: center;
+    color: white;
+    background-color: rgba(33, 150, 243, 1);
+}
+
+.button_index:hover {
+    cursor: pointer;
+}
+
 .button {
     font-size: 16px;
     font-weight: 500;
@@ -45,7 +66,7 @@ a:hover {
 
 .button:hover{
     background-color: rgba(33, 150, 243, 1);
-    text-emphasis-color: rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 1);
     cursor: pointer;
 }
 
@@ -54,8 +75,10 @@ h1 {
     font-size: 44px;
     font-weight: 900;
     line-height: 0.73;
+    color: white;
     text-transform: uppercase;
     text-align: center;
+    background-color: rgba(47, 48, 58, 1);
 }
 
 h2 {
@@ -64,6 +87,11 @@ h2 {
     line-height: 0.86;
     text-align: center;
 }
+
+.team {
+    background-color: rgba(245, 244, 250, 1);
+}
+
 h3 {
     font-size: 18px;
     font-weight: 700;
@@ -97,4 +125,39 @@ p {
     line-height: 0.85;
     color: rgba(117, 117, 117, 1);
     text-align: center;
+}
+
+footer {
+    background-color: rgba(47, 48, 58, 1);
+}
+
+.all_name footer {
+    color: white;
+}
+
+address {
+    color: #FFFFFF;
+}
+
+.contact_footer {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    line-height: 0.58;
+    font-style: normal;
+}
+
+.second_name span {
+    color: #2196F3;;
+}
+
+.second_name span {
+    font-family: 'Raleway';
+    color: #2196F3;
+    line-height: 1.19;
+}
+
+.second_name {
+    font-family: 'Raleway';
+    color: white;
+    line-height: 1.19;
 }
