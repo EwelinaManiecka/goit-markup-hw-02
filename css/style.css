@@ -74,6 +74,7 @@ a:hover {
 .front {
     background-color: rgba(47, 48, 58, 1);
 }
+
 h1 {
     font-family: 'Raleway', sans-serif;
     font-size: 44px;
@@ -90,7 +91,6 @@ h2 {
     font-weight: 700;
     line-height: 0.86;
     text-align: center;
-
 }
 
 .team {
@@ -115,6 +115,7 @@ h3 {
      line-height: 0.85;
      text-align: center;
  }
+ 
 p {
     font-size: 16px;
     line-height: 0.53;
